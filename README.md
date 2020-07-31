@@ -1,6 +1,8 @@
 # Bitcoin-Ticker
 
-A new Flutter application for tracking bitcoin rates in different currencies.
+A new Flutter application for tracking bitcoin rates in different currencies.<br>
+(this app is platform aware i.e. it changes the widget styling as per IOS or Android platform)<br>
+Hint: see the [Picker/Spinner] at the bottom in these screenshots. 😅
 
 ## Getting Started
 
